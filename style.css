@@ -13,6 +13,7 @@
 .profile-card {
   width: 480px;
   max-width: calc(100vw - 10px);
+	margin-top: 80px;
 }
 
 body {
@@ -20,7 +21,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('http://i.imgur.com/9kh3G8L.jpg') no-repeat center center fixed;
+  background: url('assets/glockner.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -70,7 +71,7 @@ img:hover {
 }
 
 .profile-card {
-  background-color: hsla(0, 0%, 100%, .5);
+  background-color: hsla(0, 0%, 100%, .8);
   border-radius: 4px;
   box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
 }
