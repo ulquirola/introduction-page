@@ -1,2 +1,1 @@
-# introduction-page
-Personal and professional informations about me
+Personal and professional informations about me. Made by simple HTML and CSS.
